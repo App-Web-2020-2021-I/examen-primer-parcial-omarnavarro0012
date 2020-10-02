@@ -2,7 +2,7 @@
     visibility: hidden;
         margin-bottom: 0;
         padding: 0;
-
+height: 0px;
 }
 @media only screen and (max-width: 320px) {
 
@@ -10,11 +10,12 @@
         visibility: hidden;
         margin-bottom: 0;
         padding: 0;
+        height: 0px;
     }
     #ipsum{
         visibility: visible;
             margin-bottom: 0;
             padding: 0;
-            
+            height: 100px;
     }
 }
