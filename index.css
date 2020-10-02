@@ -1,6 +1,20 @@
-@media(max-width : 320px){
+#ipsum{
+    visibility: hidden;
+        margin-bottom: 0;
+        padding: 0;
+
+}
+@media only screen and (max-width: 320px) {
 
     #lorem {
-        display: none;
+        visibility: hidden;
+        margin-bottom: 0;
+        padding: 0;
+    }
+    #ipsum{
+        visibility: visible;
+            margin-bottom: 0;
+            padding: 0;
+            
     }
 }
